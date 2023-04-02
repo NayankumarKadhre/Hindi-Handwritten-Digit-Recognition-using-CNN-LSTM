@@ -3,5 +3,5 @@ Created a highly accurate Hindi Digit Recognition Model using Convolutional Neur
 
 
 # Dataset
-Hindi/Devanagari MNIST Data: https://www.kaggle.com/datasets/anurags397/hindi-mnist-data
+Hindi/Devanagari Digit MNIST Data: https://www.kaggle.com/datasets/anurags397/hindi-mnist-data
 
